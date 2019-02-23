@@ -107,3 +107,21 @@
             Повинна следовать небес определенью…
         </text>
 </TEI>
+
+<text><speech>
+
+      <said type="direct" aloud="true"> - А Искендер-бек? <speech_verb>сказал</speech_verb>кто-то<speech_verb>в<speech_verb>толпе.</said>
+
+</speech></text>
+
+<text><speech>
+
+       <said type="direct" aloud="true"> - В самом деле! <speech_verb>подхватили<speech_verb>многие<speech_verb>голоса.</said>
+
+</speech></text>
+
+
+<text><speech>
+         <said type="direct" aloud="true"> - А Искандер-бек-то на что? Да как это мы его забыли, как пропустили розу между цветами, сокола между птицами? Аллах, аллах! Или у нас жар-то весь мозг из головы вытопил? Это странно! Это непостижимо! Это удивительно!</said>
+
+</speech></text>
