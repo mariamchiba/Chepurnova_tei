@@ -1,6 +1,14 @@
 <TEI> #объявляем tei
-        <teiHeader>    #информация об источнике
+        <teiHeader>
               <fileDesc> 
+              <listPerson type="historical">
+               <person xml:id="KATE2"
+                <persName>Екатерина</persName>
+               </person>
+               <person xml:id="SUMB"
+                <persName>Сумбека</persName>
+               </person>
+              </listPerson>
                    <titleStmt>
                         <title>Россиада</title>
                    </titleStmt>
@@ -10,7 +18,7 @@
                    </respStmt>
                </fileDesc>
         </teiHeader>
-        <text>       #работа с самим текстом
+        <text>
             О нимфы красные лесов и рощей злачных!
             Наяды, во струях живущие прозрачных!
             Оставьте водный ток, оставьте вы леса
