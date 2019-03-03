@@ -1,0 +1,165 @@
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+               <title>Задание 1</title>
+            </titleStmt>
+            <respStmt>
+                <persName>Мария Чепурнова</persName>
+                <resp>Разметка текста и выделение прямой речи</resp>
+            </respStmt> 
+        </fileDesc>
+     <teiHeader>
+     <text><speech>
+            <said type="direct" aloud="true"> - А Искендер-бек? <speech_verb>сказал</speech_verb>кто-то<speech_verb>в<speech_verb>толпе.</said>
+     </speech></text>
+     <text><speech>
+            <said type="direct" aloud="true"> - В самом деле! <speech_verb>подхватили<speech_verb>многие<speech_verb>голоса.</said>
+     </speech></text>
+     <text><speech>
+            <said type="direct" aloud="true"> - А Искандер-бек-то на что? Да как это мы его забыли, как пропустили розу между цветами, сокола между птицами? Аллах, аллах! Или у нас жар-то весь мозг из головы вытопил? Это странно! Это непостижимо! Это удивительно!</said>
+     </speech></text>
+</TEI>
+<TEI>
+    <teiHeader> https://rvb.ru/18vek/heraskov/01text/02poems/61.htm
+        <fileDesc> 
+            <titleStmt>
+               <title>Задание 2</title>
+            </titleStmt>
+            <respStmt>
+                <persName>Мария Чепурнова</persName>
+                <resp>Разметка фрагмента: выделение персоналии и мест</resp>
+            </respStmt>
+         </fileDesc>
+         <profileDesc>
+          <particDesc>
+           <listPerson type="historical">
+            <person xml:id="KATE2">
+             <persName>Екатерина</persName>
+            </person>
+            <person xml:id="SONEK">
+             <persName>князь</persName>
+            </person>
+           </listPerson>
+           <listPerson type="artistic">
+            <person xml:id="AUTHOR">
+             <persName>я</persName>
+            </person>
+            <person xml:id="DRYG">
+             <persName>Гирей</persName>
+            </person>
+            <person xml:id="SONSU">
+             <persName>сын</persName>
+            </person>
+            <person xml:id="SUMB">
+             <persName>Сумбека</persName>
+            </person>
+            <person xml:id="ANG">
+             <persName>ангел</persName>
+            </person>
+            <person xml:id="MUJ">
+             <persName>супруг</persName>
+            </person>
+            <person xml:id="NIMPHY">
+             <persName>нимфы</persName>
+            </person>
+           </listPerson>
+          </particDesc>
+         </profileDesc>
+    </teiHeader>
+    <text>
+          О <person xml:id="NIMPHY"><persName>нимфы</persName></person> красные лесов и рощей злачных!
+          <person xml:id="NIMPHY"><persName>Наяды</persName></person>, во струях живущие прозрачных!
+          Оставьте водный ток, оставьте <person xml:id="NIMPHY"><persName>вы</persName></person> леса
+          И дайте ваши <person xml:id="AUTHOR"><persName>мне</persName></person> услышать голоса:
+          Украсьте песнь мою и лиру мне настройте,
+          Любезну тишину кругом <placeName><settlement type=“city”>Казани</settlement></placeName> пойте.
+          Уже в полях у <person xml:id="NIMPHY"><persName>вас</persName></person> кровавых браней нет,
+          Где прежде кровь лилась, там малый <placeName><settlement type=“river”>Тибр</settlement></placeName> течет;
+          Парнасские цветы, как благовонны крины,
+          Цветут под сению щедрот <person xml:id="KATE2"><persName>Екатерины</persName></person>;
+          Ликуют жители во счастливой стране,
+          В прохладном житии, в безбедной тишине.
+          Недавный грозный рок вы</persName></person>, <person xml:id="NIMPHY"><persName>нимфы</persName></person>, позабудьте,
+          Вкушая сладкий мир, благополучны будьте;
+          С моей свирелию хочу пристать <person xml:id="AUTHOR"><persName>я</persName></person> к <person xml:id="NIMPHY"><persName>вам</persname></person>,
+          Придайте <person xml:id="NIMPHY"><persName>вы</persName></person> моим приятности стихам.
+          <person xml:id="NIMPHY"><persName>Вы</persName></person> зрели шествие прекрасныя <person xml:id="SUMB"><persName>Сумбеки</persName></person>,
+          Когда <person xml:id="SUMB"><persName>ее</persName></person> из стен несли к <placeName><settlement type=“city”>Свияжску</settlement></placeName> реки;
+          <person xml:id="NIMPHY"><persName>Вы</persName></person> видели тогда страдание <person xml:id="SUMB"><persName>ее</persName></person>;
+          Вложите плач и стон в сказание мое,
+          Дабы <person xml:id="SUMB"><persName>царицы</persName></person> сей вещал <person xml:id="AUTHOR"><persName>я</persName></person> о судьбине,
+          Как бедства, страхи, брань умел вещать доныне;
+          От браней ко любви <person xml:id="AUTHOR"><persName>я</persName></person> с лирой прелетал,
+          Недовершенный труд моим друзьям читал.
+          О! если истину друзья мои вещали,
+          Мои составленны их песни восхищали;
+          И муз любители у невских берегов
+          Сих часто слушали внимательно стихов.
+          Придайте, <person xml:id="NIMPHY"><persName>нимфы</persName></person>, <person xml:id="AUTHOR"><persName>мне</persName></person> цветов и силы ныне,
+          Да будет песнь моя слышна <person xml:id="KATE2"><persName>Екатерине</persName></person>;
+          Цветущий пред <person xml:id="KATE2">ее</persName></person> престолом яко крин,
+          Да внемлет пению <person xml:id="KATE2">ее</persName></person> любезный <person xml:id="SONEK"><persName>сын</persName></person>;
+          О праотце твоем, великий <person xml:id="SONEK"><persName>князь</persName></person>! вещаю,
+          Военную трубу <person xml:id="SONEK"><persName>тебе</persName></person> <person xml:id="AUTHOR"><persName>я</persName></person> посвящаю;
+          Геройские дела поют стихи мои,
+          Да будут некогда воспеты и твои.
+          Еще печальна ночь <person xml:id="SUMB"><persName>Сумбеку</persName></person> окружала,
+          Еще рыдающа в одре <person xml:id="SUMB"><persName>она</persName></person> лежала,
+          Когда достигла к <person xml:id="SUMB"><persName>ней</persName></person> не сладостная лесть,
+          Но слух разящая изгнаньем вечным весть;
+          В лице приятный цвет, в очах тускнеет пламень,
+          И сердце у <person xml:id="SUMB"><persName>нее</persName></person> преобратилось в камень.
+          Как пленник, внемлющий о смерти приговор,
+          Сомкнула страждуща полуумерший взор;
+          Одним стенанием пришедшим отвечала,
+          Лишенна плотских чувств, душа ее молчала;
+          В устах язык хладел, в груди спирался стон;
+          <person xml:id="SUMB"><persName>Сумбеку</persName></person> наконец крилами обнял сон
+          И, мысли усыпив, тоску ее убавил;
+          Тогда в мечтании <person xml:id="SUMB"><persName>ей</persName></person> <person xml:id="ANG"><persName>ангела</persName></person> представил,
+          <person xml:id="ANG"><persName>Который</persName></person> ризою небесною блистал;
+          Держащ лилейну ветвь, <person xml:id="SUMB"><persName>царице</persName></person> <person xml:id="ANG"><persName>он</persName></person> предстал
+          И с кротостию рек: «О чем, о чем стонаешь?
+          Взгляни, <person xml:id="SUMB"><persName>несчастная</persName></person>! и <person xml:id="SUMB"><persName>ты</persName></person> <person xml:id="ANG"><persName>меня</persName></person> узнаешь;
+          <person xml:id="ANG"><persName>Я</persName></person> руку у <person xml:id="SUMB"><persName>тебя</persName></person> в то время удержал,
+          Когда взносила <person xml:id="SUMB"><persName>ты</persName></person> на грудь свою кинжал;
+          <person xml:id="ANG"><persName>Я</persName></person> послан был к гробам всесильною судьбою,
+          Когда <person xml:id="MUJ"><persName>супруг</persName></person> в ночи беседовал с <person xml:id="SUMB"><persName>тобою</persName></person>;
+          Что сердце <person xml:id="SUMB"><persName>ты</persName></person> должна от страсти отвращать,
+          <person xml:id="ANG"><persName>Я</persName></person> тени страждущей велел сие вещать;
+          Но <person xml:id="SUMB"><persName>ты</persName></person> любовию твой разум ослепила,
+          Советы данные и клятву преступила,
+          И бедства на <person xml:id="SUMB"><persName>тебя</persName></person> рекою потекли,
+          В пучину бурную от брега отвлекли.
+          Однако не крушись, печальная <person xml:id="SUMB"><persName>Сумбека</persName></person>:
+          Бог смерти грешного не хочет человека;
+          Последуй здравого сиянию ума.
+          Сей город мрачная покроет вскоре тьма,
+          Взгляни <person xml:id="SUMB"><persName>ты</persName></person> на <placeName><settlement type=“city”>Казань</settlement></placeName>!..»</said></speech> На град <person xml:id="SUMB"><persName>она</persName></person> взглянула
+          И, зря его в крови, смутилась, воздохнула;
+          Узрела падшую огромность градских стен,
+          Рыдающих девиц, влекомых юнош в плен;
+          Зрит старцев плачущих, во грудь себя разящих,
+          Оковы тяжкие казанцев зрит носящих...
+          «Се рок твоей страны! — небесный <person xml:id="ANG"><persName>ангел</persName></person> рек. —
+          Настанет по златом ордам железный век;
+          <person xml:id="SUMB"><persName>Тебя</persName></person> в <placeName><settlement type=“city”>Свияжске</settlement></placeName> ждет приятная судьбина,
+          Гряди, и не забудь <person xml:id="DRYG"><persName>Гирея</persName></person> взять и <person xml:id="SONSU"><persName>сына</persName></person>,
+          Гряди!..» И воссияв, как светлая заря,
+          На небо возлетел, то слово говоря.
+          Виденье скрылося. <person xml:id="SUMB"><persName>Сумбека</persName></person> пробудилась,
+          Мечтой подкреплена, в надежде утвердилась;
+          <person xml:id="SUMB"><persName>Невеста</persName></person> будто бы ликующа в венце,
+          Имела радости сияние в лице;
+          Величественный вид <person xml:id="SUMB"><persName>изгнанница</persName></person> имела
+          И к шествию ладьи готовить повелела.
+          О, коль поспешно был исполнен сей приказ!
+          Но как смутилась <person xml:id="SUMB"><persName>ты</persName></person>, <person xml:id="SUMB"><persName>Сумбека</persName></person>, в оный час!
+          Какою горестью душа твоя разилась,
+          Когда судьба твоя <person xml:id="SUMB"><persName>тебе</persName></person> изобразилась,
+          Когда взглянула <person xml:id="SUMB"><persName>ты</persName></person> ко брегу шумных вод,
+          Где вкруг твоих судов стесняется народ!
+          Повинна следовать небес определенью…
+    </text>
+</TEI>
